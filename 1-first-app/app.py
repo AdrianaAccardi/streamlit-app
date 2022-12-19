@@ -25,7 +25,7 @@ df = pd.read_csv(home_path + "/streamlit-app/data/oecd.csv")
 # HEADER
 
 # Title of our app
-st.title("My first App")
+st.title("Hello World!")
 
 # Add image
 st.image('hdm-logo.jpg')
